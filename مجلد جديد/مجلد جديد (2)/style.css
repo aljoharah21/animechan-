@@ -1,0 +1,158 @@
+.imm{
+        height:300px;
+        width: 109%;
+        z-index:-1;
+        margin-left:5px;
+        	position:absolute;
+}
+	
+.hm{	
+  position:absolute;
+	color:rgb(245, 255, 108);
+	font-size:5em;
+	margin-top:150px;
+	margin-left:34%;
+    font-family: fantasy;
+        font-weight: bold;
+        color: rgb(255, 255, 245);
+        text-shadow: 0 0 4px #fefcc9, 2px -2px 6px #feec85, -4px -4px 8px #ffae34, 4px -8px 10px #ec760c, -4px -12px 12px #cd4606, 0 -16px 14px #973716, 2px -18px 18px #451b0e;
+	}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 70%;
+  background: #f1f1f1;
+  position:absolute;
+	margin-top:350px;
+margin-left:15%
+}
+
+form.example button {
+  float: right;
+  width: 15%;
+  padding: 10px;
+  background: #ffffff;
+color:rgb(0, 0, 0);
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  cursor: pointer;
+  position:absolute;
+	margin-top:400px;
+	margin-left:45%;
+}	
+
+
+ 	 .dess{
+	
+		width:100%;
+	   margin-left:1px;
+	   right:0;
+	   left:0;
+			position:absolute;
+	float:center;
+	    margin-top:450px;
+      row-gap: 100px;
+      
+}
+
+/* .des{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 10px;
+} */
+
+.bbooxx {
+    margin-left:7%;
+    margin-top:50px;
+	float:left;
+    /* height: 75px; */
+    width: 40%;
+    background-color: #989a9b8c;
+    row-gap: 100px;
+  
+	}
+
+  .quote-box{
+    position: relative;
+      background: #eee;
+      padding-left: 5px;
+      font-style: italic;
+      z-index: 5;
+      right: 10px;
+      font-size: larger;
+      text-align: center;
+      row-gap: 100px;  
+  }
+  
+  *{
+padding: 0;
+margin:0;
+box-sizing: border-box;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+
+  body{
+      background-color: #000000;
+    
+  }
+
+
+
+ @media(max-width:700px){
+.bbooxx{width:100%;
+  margin-left:1px;
+  float:center;
+  margin-top:40px;
+
+}	 .dess{
+		width:100%;
+	   margin-left:1px;
+	   right:0;
+	   left:0;
+			position:absolute;
+	float:center;
+	    margin-top:450px;
+}
+
+
+.imm{
+        
+        height:300px;
+	width:100%;	
+        z-index:-1;
+        margin-left:1px;
+        	position:absolute;
+		}
+	
+		.hm{
+      position:absolute;
+	color:rgb(245, 255, 108);
+	font-size:2em;
+	margin-top:150px;
+	margin-left:34%;
+    font-family: fantasy;
+        font-weight: bold;
+        color: rgb(255, 255, 245);
+        text-shadow: 0 0 4px #fefcc9, 2px -2px 6px #feec85, -4px -4px 8px #ffae34, 4px -8px 10px #ec760c, -4px -12px 12px #cd4606, 0 -16px 14px #973716, 2px -18px 18px #451b0e;
+		}}
+	
+	
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
